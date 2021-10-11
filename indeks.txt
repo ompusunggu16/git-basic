@@ -1,1 +1,3 @@
 ini buat file text dari terminal powershell ke github
+
+ini ngedit bree buat tau log aje 
