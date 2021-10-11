@@ -1,0 +1,1 @@
+ini buat file text dari terminal powershell ke github
